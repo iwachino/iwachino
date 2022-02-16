@@ -1,4 +1,5 @@
 - Hi, I’m Ian
+- Earth + computers etc.
 - I’m trying to learn more about python
 - reach me @ my website: ianwachino.com
 
