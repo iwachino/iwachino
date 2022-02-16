@@ -1,6 +1,6 @@
 - Hi, I’m Ian
 - Earth + computers etc.
-- I’m trying to learn more about python
+- I’m trying to improve python skills
 - reach me @ my website: ianwachino.com
 
 
